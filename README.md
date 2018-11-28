@@ -8,3 +8,4 @@ cd get_func_callees
 node core.js
 ```
 
+![dot](./dot.dot.png)
